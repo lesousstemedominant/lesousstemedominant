@@ -5,3 +5,9 @@ remote_theme: daviddarnes/garth
 
 plugins:
   - jekyll-remote-theme
+
+nav:
+  - title: Accueil
+    url: /
+  - title: Blog
+    url: /blog/
