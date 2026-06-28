@@ -9,5 +9,3 @@ plugins:
 nav:
   - title: Accueil
     url: /
-  - title: Blog
-    url: /blog/
