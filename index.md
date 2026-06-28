@@ -1,6 +1,10 @@
 ---
-layout: home
-title: Bienvenue
+layout: page
+title: Blog
 ---
 
-# 👋 Bienvenue dans le soussteme dominant
+# 📰 Articles
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
