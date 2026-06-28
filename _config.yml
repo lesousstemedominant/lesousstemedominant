@@ -1,0 +1,7 @@
+title: Le soussteme dominant
+description: Jaaj 4 ever
+
+remote_theme: daviddarnes/garth
+
+plugins:
+  - jekyll-remote-theme
