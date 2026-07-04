@@ -9,3 +9,8 @@ plugins:
 nav:
   - title: Accueil
     url: /
+
+collections:
+  lexique:
+    output: true
+    permalink: /lexique/:name/
