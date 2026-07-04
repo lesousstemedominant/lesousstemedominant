@@ -1,71 +1,84 @@
 ---
 title: Lexique
+layout: page
 permalink: /lexique/
 ---
 
+# Lexique
+
 Cette page rassemble les notions, personnages, lieux et formes du grimoire de Jumanjaaj.
+
+---
 
 ## Personnages
 
-- [Aberkane](/lexique/aberkane/)
-- [Arielle](/lexique/arielle/)
-- [Aziz](/lexique/aziz/)
-- [Bel Homme Libre](/lexique/bel-homme-libre/)
-- [Bloc de Bulles](/lexique/bloc-de-bulles/)
-- [Bolo](/lexique/bolo/)
-- [CC](/lexique/cc/)
-- [Cyril](/lexique/cyril/)
-- [Don Pacho](/lexique/don-pacho/)
-- [Don PP](/lexique/don-pp/)
-- [Greg](/lexique/greg/)
-- [Grimaud](/lexique/grimaud/)
-- [La Nuque](/lexique/la-nuque/)
-- [La Sacoche](/lexique/la-sacoche/)
-- [Le G](/lexique/le-g/)
-- [Le jaajissime](/lexique/le-jaajissime/)
-- [NS](/lexique/ns/)
-- [Raph](/lexique/raph/)
-- [Schengen](/lexique/schengen/)
-- [Slim](/lexique/slim/)
-- [Tomasito](/lexique/tomasito/)
+- [Aberkane]({{ "/lexique/aberkane/" | relative_url }})
+- [Arielle]({{ "/lexique/arielle/" | relative_url }})
+- [Aziz]({{ "/lexique/aziz/" | relative_url }})
+- [Bel Homme Libre]({{ "/lexique/bel-homme-libre/" | relative_url }})
+- [Bloc de Bulles]({{ "/lexique/bloc-de-bulles/" | relative_url }})
+- [Bolo]({{ "/lexique/bolo/" | relative_url }})
+- [CC]({{ "/lexique/cc/" | relative_url }})
+- [Cyril]({{ "/lexique/cyril/" | relative_url }})
+- [Don Pacho]({{ "/lexique/don-pacho/" | relative_url }})
+- [Don PP]({{ "/lexique/don-pp/" | relative_url }})
+- [Greg]({{ "/lexique/greg/" | relative_url }})
+- [Grimaud]({{ "/lexique/grimaud/" | relative_url }})
+- [La Nuque]({{ "/lexique/la-nuque/" | relative_url }})
+- [La Sacoche]({{ "/lexique/la-sacoche/" | relative_url }})
+- [Le G]({{ "/lexique/le-g/" | relative_url }})
+- [Le jaajissime]({{ "/lexique/le-jaajissime/" | relative_url }})
+- [NS]({{ "/lexique/ns/" | relative_url }})
+- [Raph]({{ "/lexique/raph/" | relative_url }})
+- [Schengen]({{ "/lexique/schengen/" | relative_url }})
+- [Slim]({{ "/lexique/slim/" | relative_url }})
+- [Tomasito]({{ "/lexique/tomasito/" | relative_url }})
+
+---
 
 ## Lieux
 
-- [La Cordière de la sacoche](/lexique/la-cordiere-de-la-sacoche/)
-- [La JaajBox](/lexique/la-jaajbox/)
-- [La Mare des Requins](/lexique/la-mare-des-requins/)
-- [La Zone G](/lexique/la-zone-g/)
-- [Le Jardin Villemin](/lexique/le-jardin-villemin/)
-- [Lépanges sur Vologne](/lexique/lepanges-sur-vologne/)
+- [La Cordière de la sacoche]({{ "/lexique/la-cordiere-de-la-sacoche/" | relative_url }})
+- [La JaajBox]({{ "/lexique/la-jaajbox/" | relative_url }})
+- [La Mare des Requins]({{ "/lexique/la-mare-des-requins/" | relative_url }})
+- [La Zone G]({{ "/lexique/la-zone-g/" | relative_url }})
+- [Le Jardin Villemin]({{ "/lexique/le-jardin-villemin/" | relative_url }})
+- [Lépanges sur Vologne]({{ "/lexique/lepanges-sur-vologne/" | relative_url }})
+
+---
 
 ## Concepts
 
-- [La Controverse du Grimm](/lexique/la-controverse-du-grimm/)
-- [Le Dom](/lexique/le-dom/)
-- [Le Jaaj](/lexique/le-jaaj/)
-- [Le Jaaj Périphérique](/lexique/le-jaaj-peripherique/)
-- [Le Multi-Greg](/lexique/le-multi-greg/)
-- [Le Sûs](/lexique/le-sus/)
-- [Le Sûs-tème Dom-inant](/lexique/le-sus-teme-dom-inant/)
-- [Le Ya](/lexique/le-ya/)
-- [Les Toot-Sweet](/lexique/les-toot-sweet/)
-- [Les Vizicholriens](/lexique/les-vizicholriens/)
-- [L’Anté-Ya](/lexique/lante-ya/)
-- [L’Effet Misery](/lexique/leffet-misery/)
-- [Vraiment](/lexique/vraiment/)
+- [La Controverse du Grimm]({{ "/lexique/la-controverse-du-grimm/" | relative_url }})
+- [Le Dom]({{ "/lexique/le-dom/" | relative_url }})
+- [Le Jaaj]({{ "/lexique/le-jaaj/" | relative_url }})
+- [Le Jaaj Périphérique]({{ "/lexique/le-jaaj-peripherique/" | relative_url }})
+- [Le Multi-Greg]({{ "/lexique/le-multi-greg/" | relative_url }})
+- [Le Sûs]({{ "/lexique/le-sus/" | relative_url }})
+- [Le Sûs-tème Dom-inant]({{ "/lexique/le-sus-teme-dom-inant/" | relative_url }})
+- [Le Ya]({{ "/lexique/le-ya/" | relative_url }})
+- [Les Toot-Sweet]({{ "/lexique/les-toot-sweet/" | relative_url }})
+- [Les Vizicholriens]({{ "/lexique/les-vizicholriens/" | relative_url }})
+- [L’Anté-Ya]({{ "/lexique/lante-ya/" | relative_url }})
+- [L’Effet Misery]({{ "/lexique/leffet-misery/" | relative_url }})
+- [Vraiment]({{ "/lexique/vraiment/" | relative_url }})
+
+---
 
 ## Petites Ondes
 
-- [Le Eyj](/lexique/le-eyj/)
-- [Le Trwu](/lexique/le-trwu/)
+- [Le Eyj]({{ "/lexique/le-eyj/" | relative_url }})
+- [Le Trwu]({{ "/lexique/le-trwu/" | relative_url }})
+
+---
 
 ## Art Jaaj
 
-- [La Janje](/lexique/la-janje/)
-- [La Jonje](/lexique/la-jonje/)
-- [La Rencontre](/lexique/la-rencontre/)
-- [Les Natures Greg](/lexique/les-natures-greg/)
-- [Les Pupetextes](/lexique/les-pupetextes/)
-- [Les Visions Greg](/lexique/les-visions-greg/)
-- [Pupeto](/lexique/pupeto/)
-- [Quand on aime](/lexique/quand-on-aime/)
+- [La Janje]({{ "/lexique/la-janje/" | relative_url }})
+- [La Jonje]({{ "/lexique/la-jonje/" | relative_url }})
+- [La Rencontre]({{ "/lexique/la-rencontre/" | relative_url }})
+- [Les Natures Greg]({{ "/lexique/les-natures-greg/" | relative_url }})
+- [Les Pupetextes]({{ "/lexique/les-pupetextes/" | relative_url }})
+- [Les Visions Greg]({{ "/lexique/les-visions-greg/" | relative_url }})
+- [Pupeto]({{ "/lexique/pupeto/" | relative_url }})
+- [Quand on aime]({{ "/lexique/quand-on-aime/" | relative_url }})
