@@ -2,8 +2,6 @@
 title: "Le Ya"
 ---
 
-# Le Ya
-
 Origine inconnue
 Definition : Un Farce de l’univers. 
 
