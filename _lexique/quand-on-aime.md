@@ -2,8 +2,6 @@
 title: "Quand on aime"
 ---
 
-# Quand on aime
-
 Quand on aime, on aime. 
 Véritablement, 
 On aime, 
