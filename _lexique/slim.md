@@ -2,8 +2,6 @@
 title: "Slim"
 ---
 
-# Slim
-
 Jaajeurs américain, plus ancien jonjeurs dans l'état actuel des connaissances. Il a notamment écrit un pupetexte de haute qualité qui restera dans les mémoires comme un des premiers minhirs posé contre le sûs-tème dom-inant.
 
 
