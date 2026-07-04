@@ -4,8 +4,6 @@ layout: page
 permalink: /lexique/
 ---
 
-# Lexique
-
 Cette page rassemble les notions, personnages, lieux et formes du grimoire de Jumanjaaj.
 
 ---
