@@ -11,6 +11,13 @@ collections:
     output: true
     permalink: /lexique/:name/
 
+defaults:
+  - scope:
+      path: ""
+      type: "lexique"
+    values:
+      layout: page
+
 nav:
   - title: Accueil
     url: /
