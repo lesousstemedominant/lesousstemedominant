@@ -1,5 +1,5 @@
 ---
-title: Lexique
+title: Grimmoire
 layout: page
 permalink: /lexique/
 ---
